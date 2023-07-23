@@ -6,10 +6,10 @@ These are the topics for week 3:
 
 1. [What is programming?](https://study.hackyourfuture.net/#/programming/README)
 2. The basic building blocks
-   - [What are variables?](https://study.hackyourfuture.net/#/javascript/variables)
-   - [What are values?](https://study.hackyourfuture.net/#/javascript/values)
-   - [Statements vs. Expressions](https://study.hackyourfuture.net/#/javascript/statements-vs-expressions)
-   - [Operators](https://study.hackyourfuture.net/#/javascript/operators)
+    - [What are variables?](https://study.hackyourfuture.net/#/javascript/variables)
+    - [What are values?](https://study.hackyourfuture.net/#/javascript/values)
+    - [Statements vs. Expressions](https://study.hackyourfuture.net/#/javascript/statements-vs-expressions)
+    - [Operators](https://study.hackyourfuture.net/#/javascript/operators)
 3. [Conditional statements](https://study.hackyourfuture.net/#/javascript/conditional-statements)
 4. [Debuggers](https://study.hackyourfuture.net/#/tools/debuggers)
 
@@ -27,10 +27,10 @@ We want to first take a little bit of a broader look at what programming is in g
 
 The most basic building blocks of programming are variables/values and operators. They allow you to create something, manipulate it and then store it somewhere. Have a look at the following articles to go over the basics of this:
 
-- [What are variables?](https://study.hackyourfuture.net/#/javascript/variables)
-- [What are values?](https://study.hackyourfuture.net/#/javascript/values)
-- [Statements vs. Expressions](https://study.hackyourfuture.net/#/javascript/statements-vs-expressions)
-- [Operators](https://study.hackyourfuture.net/#/javascript/operators)
+-   [What are variables?](https://study.hackyourfuture.net/#/javascript/variables)
+-   [What are values?](https://study.hackyourfuture.net/#/javascript/values)
+-   [Statements vs. Expressions](https://study.hackyourfuture.net/#/javascript/statements-vs-expressions)
+-   [Operators](https://study.hackyourfuture.net/#/javascript/operators)
 
 ## 3. Conditional statements
 

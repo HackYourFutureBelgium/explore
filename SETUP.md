@@ -6,8 +6,8 @@ Hi new applicant, welcome to the tryout module of HackYourFuture! Here we will e
 
 We'll discuss the following points:
 
-- How do I communicate with everybody? Use communication tool [Slack](https://www.slack.com)
-- Where do I write my code? Inside a code editor called [Visual Studio Code](https://code.visualstudio.com/)
+-   How do I communicate with everybody? Use communication tool [Slack](https://www.slack.com)
+-   Where do I write my code? Inside a code editor called [Visual Studio Code](https://code.visualstudio.com/)
 
 ### How do I communicate with everybody? Use Slack
 
@@ -17,29 +17,29 @@ Slack is an application that allows us to communicate with others through (video
 
 Please download the app for on your computer:
 
-- [macOS](https://slack.com/downloads/mac)
-- [Windows](https://slack.com/downloads/windows)
-- [Linux](https://slack.com/downloads/linux)
+-   [macOS](https://slack.com/downloads/mac)
+-   [Windows](https://slack.com/downloads/windows)
+-   [Linux](https://slack.com/downloads/linux)
 
 And if you really can't go without your phone, you can also get it for mobile:
 
-- [App store](https://itunes.apple.com/nl/app/slack/id803453959?mt=12)
-- [Google Play](https://play.google.com/store/apps/details?id=com.Slack&hl=nl)
+-   [App store](https://itunes.apple.com/nl/app/slack/id803453959?mt=12)
+-   [Google Play](https://play.google.com/store/apps/details?id=com.Slack&hl=nl)
 
 When it's all installed it's time to get into it! First try out the demo:
 
-- [Slack Demo](https://slackdemo.com/)
+-   [Slack Demo](https://slackdemo.com/)
 
 Important things to note is to:
 
-- Make use of _threads_ to isolate discussions. You can do this by hovering over the message you want to reply to and clicking on `reply in thread`.
-- When pasting your code, format it to make it easier to read by using the ` ``` your code ``` ` syntax. Note that this is the backtick key, not the single quote key.
-- You will have access to our slack for a limited time while you go through the module
+-   Make use of _threads_ to isolate discussions. You can do this by hovering over the message you want to reply to and clicking on `reply in thread`.
+-   When pasting your code, format it to make it easier to read by using the ` ``` your code ``` ` syntax. Note that this is the backtick key, not the single quote key.
+-   You will have access to our slack for a limited time while you go through the module
 
 Done? This is optional, but for those who are curious:
 
-- [Cheat sheet for basics and shortcuts](https://slack.com/intl/en-nl/help/articles/201374536-Slack-keyboard-shortcuts)
-- [How to format your messages in Slack](https://api.slack.com/reference/surfaces/formatting)
+-   [Cheat sheet for basics and shortcuts](https://slack.com/intl/en-nl/help/articles/201374536-Slack-keyboard-shortcuts)
+-   [How to format your messages in Slack](https://api.slack.com/reference/surfaces/formatting)
 
 ### Where do I write my code? That depends...
 
@@ -67,7 +67,7 @@ While your code editor does the basic job of allowing you to write code, it can 
 
 Currently, Visual Studio Code is one of the top code editors on the market. As such, we have chosen it has our default code editor to use. Click the following link to download it:
 
-- [Visual Studio Code](https://code.visualstudio.com/)
+-   [Visual Studio Code](https://code.visualstudio.com/)
 
 #### Improving our code editor
 
@@ -77,7 +77,7 @@ It is best to have Prettier set up that it formats your code whenever you save a
 
 For more specific information on how to setup your editor:
 
-- [VSCode Tips](https://github.com/HackYourFuture/fundamentals/tree/master/VSCodeTips)
+-   [VSCode Tips](https://github.com/HackYourFuture/fundamentals/tree/master/VSCodeTips)
 
 ## Finished?
 

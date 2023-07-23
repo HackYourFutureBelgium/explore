@@ -17,7 +17,7 @@ A good place to practice coding is in the [JS Tutor](http://pythontutor.com/java
 
 There is an amazing open repository that teaches JavaScript in 30 days. Don't worry, you don't have to do it all this week but you will see us refer to it more often throughout this and next week as well as during the main curriculum. It is a great thing to keep working on in between this module and whenever you get into one of the HYF classes.
 
-- [30 Days of JavaScript](https://github.com/Asabeneh/30-Days-Of-JavaScript/blob/master/readMe.md). Do day 1, 2, 3, 4 and 5.
+-   [30 Days of JavaScript](https://github.com/Asabeneh/30-Days-Of-JavaScript/blob/master/readMe.md). Do day 1, 2, 3, 4 and 5.
 
 > Note: Day 1 will explain how to install Node.js, Visual Studio Code and how to run code in your browser. These, plus the JS Tutor link above are many different ways of running your code. Find the one you are most comfortable with!
 
@@ -25,21 +25,21 @@ There is an amazing open repository that teaches JavaScript in 30 days. Don't wo
 
 In the following exercises you'll learn how to use different JavaScript concepts to solve common computational problems.
 
-- [Learn-js](https://www.learn-js.org/). Do the following `Learn the basics` exercises:
-  - Hello, World!
-  - Variables and Types
-  - Arrays
-  - Manipulating Arrays
-  - Operators
-  - Conditions
-- [Codecademy: Introduction to JavaScript](https://www.codecademy.com/learn/introduction-to-javascript/modules/learn-javascript-introduction). Do the exercises (#1 to #7).
-- [jshero.net](https://www.jshero.net/en/success.html). Do the first 5 exercises.
-- [w3schools](https://www.w3schools.com/js/exercise_js.asp). Do the JS Variables, JS Operators, JS Data Types, JS Objects, JS Arrays, JS Array Methods and JS Array Sort exercises.
+-   [Learn-js](https://www.learn-js.org/). Do the following `Learn the basics` exercises:
+    -   Hello, World!
+    -   Variables and Types
+    -   Arrays
+    -   Manipulating Arrays
+    -   Operators
+    -   Conditions
+-   [Codecademy: Introduction to JavaScript](https://www.codecademy.com/learn/introduction-to-javascript/modules/learn-javascript-introduction). Do the exercises (#1 to #7).
+-   [jshero.net](https://www.jshero.net/en/success.html). Do the first 5 exercises.
+-   [w3schools](https://www.w3schools.com/js/exercise_js.asp). Do the JS Variables, JS Operators, JS Data Types, JS Objects, JS Arrays, JS Array Methods and JS Array Sort exercises.
 
 The above should give you a nice basis. If you have extra time and are still a little unsure, have a look at the following:
 
-- [Programiz: JAvascript](https://www.programiz.com/javascript/get-started). This getting started tutorial goes through the basics and provides a lot of examples!
-- [FreeCodeCamp: Introduction to JavaScript](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript). You can choose whichever ones you feel are challenging enough.
+-   [Programiz: JAvascript](https://www.programiz.com/javascript/get-started). This getting started tutorial goes through the basics and provides a lot of examples!
+-   [FreeCodeCamp: Introduction to JavaScript](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript). You can choose whichever ones you feel are challenging enough.
 
 ## Finished?
 

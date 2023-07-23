@@ -5,12 +5,12 @@
 These are the topics for week 2:
 
 1. Responsiveness
-   - Flexible organizing with flexbox
-   - Using the grid layout
-   - Responsive design with media queries
+    - Flexible organizing with flexbox
+    - Using the grid layout
+    - Responsive design with media queries
 2. Advanced CSS
-   - Pseudo class selectors
-   - Pseudo elements
+    - Pseudo class selectors
+    - Pseudo elements
 
 > If you haven't yet, make sure to follow the [setup guide](../SETUP.md) to have everything set up!
 
@@ -26,8 +26,8 @@ What it does is helping you to think according to `grid-based web design`: eleme
 
 Read the following to learn more about 'grid-based web design':
 
-- [Introduction to grids in web design](https://webdesign.tutsplus.com/articles/a-comprehensive-introduction-to-grids-in-web-design--cms-26521)
-- [Grid Systems in Web & UI Design](https://www.youtube.com/watch?v=n_V_aLqYPI0)
+-   [Introduction to grids in web design](https://webdesign.tutsplus.com/articles/a-comprehensive-introduction-to-grids-in-web-design--cms-26521)
+-   [Grid Systems in Web & UI Design](https://www.youtube.com/watch?v=n_V_aLqYPI0)
 
 Once you understand this way of thinking you'll know why it makes sense to use `flexbox`.
 
@@ -39,9 +39,9 @@ display: flex;
 
 This will give us the `flexbox`-specific properties, so we can develop clean and organized CSS. Check the following links to understand how this is done:
 
-- [CSS Flexbox in 100 Seconds](https://www.youtube.com/watch?v=K74l26pE4YA)
-- [What is Flexbox and Why to Learn it](https://www.youtube.com/watch?v=CXSwNIPsyTs)
-- [CSS Flexbox Course](https://www.youtube.com/watch?v=-Wlt8NRtOpo)
+-   [CSS Flexbox in 100 Seconds](https://www.youtube.com/watch?v=K74l26pE4YA)
+-   [What is Flexbox and Why to Learn it](https://www.youtube.com/watch?v=CXSwNIPsyTs)
+-   [CSS Flexbox Course](https://www.youtube.com/watch?v=-Wlt8NRtOpo)
 
 ### Using the grid layout
 
@@ -49,7 +49,7 @@ The most recent addition to the css toolkit for organizing your layout is using 
 
 The complete guide to grid by css-tricks is the go to guide, read it here:
 
-- [CSS-tricks complete guide to grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
+-   [CSS-tricks complete guide to grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
 
 ### Responsive design with media queries
 
@@ -61,8 +61,8 @@ The primary way of making a responsive website is by writing custom CSS code tha
 
 Learn more about media queries here:
 
-- [Introduction to Media Queries](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Media_queries).
-- [Learn CSS Media Query in 7 Minutes](https://www.youtube.com/watch?v=yU7jJ3NbPdA)
+-   [Introduction to Media Queries](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Media_queries).
+-   [Learn CSS Media Query in 7 Minutes](https://www.youtube.com/watch?v=yU7jJ3NbPdA)
 
 ### Layouts
 
@@ -70,7 +70,7 @@ Now that you know about all the tools at your disposal it is time to look at how
 
 Learn more about them here:
 
-- [The fundamentals of css layouts](https://www.youtube.com/watch?v=yMEjLBKyvEg)
+-   [The fundamentals of css layouts](https://www.youtube.com/watch?v=yMEjLBKyvEg)
 
 ## 2. Advanced CSS
 
@@ -82,7 +82,7 @@ Every HTML element can be in different states. The default state is when an elem
 
 ```css
 button {
-  background-color: white;
+    background-color: white;
 }
 ```
 
@@ -90,13 +90,13 @@ There are times when a user interacts with an element. For example: clicking a b
 
 ```css
 button:hover {
-  background-color: blue;
+    background-color: blue;
 }
 ```
 
 Like the hover state there are others as well: `click`, `focus`, `visited`, and more. For most of these element states we have special selectors that allow you to change the styling. Read the following article to learn about them. Once you have done that, try them out for yourself!
 
-- [Pseudo class selectors](https://css-tricks.com/pseudo-class-selectors/)
+-   [Pseudo class selectors](https://css-tricks.com/pseudo-class-selectors/)
 
 ### Pseudo elements
 
@@ -104,17 +104,17 @@ Next to pseudo class selectors there is also something called pseudo elements. T
 
 ```css
 .required::after {
-  content: "*";
+    content: '*';
 }
 ```
 
 This is an `::after` element which means that the html element will be placed directly after the HTML element. Conversely, you can use the `::before` element to place it directly before the element you targeted with your css. In this case any HTML element that has the css class `required` assigned to it will get an extra HTML element after it with the star. Have a look at the following video that goes into this and explains the use case that this css code solves:
 
-- [CSS Pseudo Elements in 8 minutes](https://www.youtube.com/watch?v=OtBpgtqrjyo)
+-   [CSS Pseudo Elements in 8 minutes](https://www.youtube.com/watch?v=OtBpgtqrjyo)
 
 It may be a little unclear now what the real difference is between these two. The following video goes over that to get it clear in your mind:
 
-- [Pseudo-Classes vs Pseudo-Elements in CSS](https://www.youtube.com/watch?v=0VDx1570X3U)
+-   [Pseudo-Classes vs Pseudo-Elements in CSS](https://www.youtube.com/watch?v=0VDx1570X3U)
 
 ## Finished?
 
